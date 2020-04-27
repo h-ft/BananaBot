@@ -1,0 +1,2 @@
+# BananaBot
+Experimental Discord bot
