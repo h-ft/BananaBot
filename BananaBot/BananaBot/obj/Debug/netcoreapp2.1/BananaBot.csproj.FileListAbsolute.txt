@@ -1,0 +1,11 @@
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\bin\Debug\netcoreapp2.1\BananaBot.deps.json
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\bin\Debug\netcoreapp2.1\BananaBot.runtimeconfig.json
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\bin\Debug\netcoreapp2.1\BananaBot.runtimeconfig.dev.json
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\bin\Debug\netcoreapp2.1\BananaBot.dll
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.csprojAssemblyReference.cache
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.AssemblyInfoInputs.cache
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.AssemblyInfo.cs
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\bin\Debug\netcoreapp2.1\BananaBot.pdb
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.dll
+C:\Users\USER PC\source\repos\BananaBot\BananaBot\obj\Debug\netcoreapp2.1\BananaBot.pdb
